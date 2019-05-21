@@ -1,0 +1,27 @@
+{
+  "name": "vue-start",
+  "version": "1.0.0",
+  "description": "学习vue",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "webpack": "^4.32.0"
+  },
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/li-chun-yin/vue-start.git"
+  },
+  "author": "lichunyin <licy2013@aliyun.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/li-chun-yin/vue-start/issues"
+  },
+  "homepage": "https://github.com/li-chun-yin/vue-start#readme"
+}
