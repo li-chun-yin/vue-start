@@ -1,8 +1,8 @@
 {
-  "app.js": "app.main.js",
-  "app.js.map": "app.main.js.map",
-  "print.js": "print.main.js",
-  "print.js.map": "print.main.js.map",
-  "background.png": "44dcc1788f887738fde94595060aeb57.png",
-  "index.html": "index.html"
+  "app.js": "/app.main.js",
+  "app.js.map": "/app.main.js.map",
+  "print.js": "/print.main.js",
+  "print.js.map": "/print.main.js.map",
+  "background.png": "/44dcc1788f887738fde94595060aeb57.png",
+  "index.html": "/index.html"
 }
